@@ -7,3 +7,4 @@
 # data resources
 data/*
 docker-compose.override.yaml
+secret.env

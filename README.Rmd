@@ -10,3 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 # About
 
 This repo is home to exploratory data analysis tied to sea level rise resources. 
+
+## Preliminary Objectives
+
+ * Set scheduled scripts to harvest tide/weather patterns to keep an app always up to date.
+ * Build infrastructure to return personalized forecasts for sunny-day flood events.

@@ -3,5 +3,6 @@
 # exploring the use of vulntoolkit for web scraping NOAA tide data
 
 library(devtools)
-#install_github("troyhill/VulnToolkit")
 library(VulnToolkit)
+
+# deprecated resource, trying {noaaoceans}
